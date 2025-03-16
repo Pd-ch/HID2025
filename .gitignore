@@ -1,4 +1,1 @@
-gallery
-probe_phase1
-probe_phase2
-data.npy
+data/*
